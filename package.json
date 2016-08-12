@@ -6,7 +6,7 @@
   "homepage": "https://github.com/kissjs/node-mongoskin",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kissjs/node-mongoskin.git"
+    "url": "git://github.com/minewhat/node-mongoskin.git#mw_rel"
   },
   "bugs": {
     "url": "https://github.com/kissjs/node-mongoskin/issues"
@@ -19,9 +19,6 @@
   ],
   "engines": {
     "node": ">= 0.4.0"
-  },
-  "peerDependencies": {
-    "mongodb": "git://github.com/minewhat/node-mongodb-native.git#mw_rel"
   },
   "devDependencies": {
     "istanbul": "0.3.17",
