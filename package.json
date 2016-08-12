@@ -21,7 +21,7 @@
     "node": ">= 0.4.0"
   },
   "peerDependencies": {
-    "mongodb": "~2.0"
+    "mongodb": "git://github.com/minewhat/node-mongodb-native.git#mw_rel"
   },
   "devDependencies": {
     "istanbul": "0.3.17",
